@@ -1,2 +1,2 @@
-# Kay4Koding.com
+# Kay4
 This is my bootstrap website
